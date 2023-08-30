@@ -7,6 +7,8 @@ Completed the project using the different ML libraries of python language such a
 ![image](https://github.com/dhruvgoyal9999/Unblurring-Users-Sentiments-on-Reddit/assets/142114666/0070d62d-19e6-461c-89b6-2e387e042527)
 
 **Features**
+
+
 Data Retrieval: Utilize the Reddit API to access top posts from a chosen subreddit.
 
 Text Preprocessing: Clean, tokenize, and transform text data to prepare it for analysis.
@@ -19,6 +21,8 @@ GitHub Collaboration: Share your insights and engage with the data science commu
 
 
 **Project Workflow**
+
+
 Data Collection: Obtain top posts from the chosen subreddit using the Reddit API.
 
 Text Preprocessing: Clean and preprocess the text data by removing noise and irrelevant elements.
@@ -33,6 +37,8 @@ GitHub Repository: Share your work, code, and findings on GitHub to collaborate 
 
 
 **Getting Started**
+
+
 Clone this repository to your local machine.
 
 Set up your Reddit developer account to obtain API keys and tokens.
@@ -45,6 +51,8 @@ Run the script to retrieve, preprocess, analyze, and visualize the sentiment dat
 
 
 **Dependencies**
+
+
 Python 3.x
 
 praw library for Reddit API access
@@ -56,5 +64,7 @@ matplotlib and seaborn libraries for data visualization
 
 
 **Contributions**
+
+
 Contributions and suggestions are welcome! If you have ideas for improvements or new features, feel free to submit a pull request.
 
