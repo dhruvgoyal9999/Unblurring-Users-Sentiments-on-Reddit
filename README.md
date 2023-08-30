@@ -12,12 +12,15 @@ Completed the project using the different ML libraries of python language such a
 Data Retrieval: Utilize the Reddit API to access top posts from a chosen subreddit.
 
 Text Preprocessing: Clean, tokenize, and transform text data to prepare it for analysis.
-![image](https://github.com/dhruvgoyal9999/Unblurring-Users-Sentiments-on-Reddit/assets/142114666/0f387874-b0f4-4a47-8f2f-7359c7d73412)
-
 
 Sentiment Analysis: Employ the TextBlob library to determine sentiment polarity (positive, negative, neutral) of post titles.
 
+
+
+
 Data Visualization: Create informative visualizations, including sentiment distribution charts, to present findings.
+
+
 
 GitHub Collaboration: Share your insights and engage with the data science community on GitHub.
 
@@ -27,17 +30,31 @@ GitHub Collaboration: Share your insights and engage with the data science commu
 
 Data Collection: Obtain top posts from the chosen subreddit using the Reddit API.
 
+![Untitled](https://github.com/dhruvgoyal9999/Unblurring-Users-Sentiments-on-Reddit/assets/142114666/ad116bec-93fa-482a-ab07-55719d2436d8)
+
 Text Preprocessing: Clean and preprocess the text data by removing noise and irrelevant elements.
+
+![image](https://github.com/dhruvgoyal9999/Unblurring-Users-Sentiments-on-Reddit/assets/142114666/ab4225e1-381d-49db-8c47-9b29c8f430aa)
 
 Sentiment Analysis: Apply sentiment analysis using TextBlob to gauge the emotional context of post titles.
 
+![image](https://github.com/dhruvgoyal9999/Unblurring-Users-Sentiments-on-Reddit/assets/142114666/25143b11-4c01-4077-ac0b-33c584e18d26)
+
+
 Visualization: Create visualizations to showcase the distribution of sentiments within the subreddit's top posts.
+
+
 
 Insights and Interpretation: Interpret the sentiment distribution, identifying trends and patterns in user sentiments.
 
+![image](https://github.com/dhruvgoyal9999/Unblurring-Users-Sentiments-on-Reddit/assets/142114666/ead8f1cd-d428-41ec-b298-e6ec9c45f39a)
+
+
 GitHub Repository: Share your work, code, and findings on GitHub to collaborate and receive feedback.
 
+**Result:**
 
+Here we can see that most of the posts on reddit are only with positive or neutral sentiments
 **Getting Started**
 
 
