@@ -12,6 +12,8 @@ Completed the project using the different ML libraries of python language such a
 Data Retrieval: Utilize the Reddit API to access top posts from a chosen subreddit.
 
 Text Preprocessing: Clean, tokenize, and transform text data to prepare it for analysis.
+![image](https://github.com/dhruvgoyal9999/Unblurring-Users-Sentiments-on-Reddit/assets/142114666/0f387874-b0f4-4a47-8f2f-7359c7d73412)
+
 
 Sentiment Analysis: Employ the TextBlob library to determine sentiment polarity (positive, negative, neutral) of post titles.
 
